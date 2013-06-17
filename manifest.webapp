@@ -1,0 +1,17 @@
+{
+    "name": "Firefox OS App CrackME",
+    "description": "Simple CrackME to test your reversing skills... and write my first Firefox OS App ;)",
+    "launch_path": "/index.html",
+    "developer": {
+        "name": "Axelle Apvrille",
+        "url": "http://blog.fortinet.com"
+    },
+    "icons": {
+        "16": "/img/icon16.png",
+        "32": "/img/icon32.png",
+        "48": "/img/icon48.png",
+        "64": "/img/icon64.png",
+        "128": "/img/icon128.png"
+    },
+    "default_locale": "en"
+}
